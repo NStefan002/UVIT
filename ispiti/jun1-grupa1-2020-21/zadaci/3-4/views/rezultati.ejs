@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Stefan Novakovic</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/1.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="omotac">
+        <h1>Evrovizija 2021 - <%= drzava %>
+        </h1>
+
+        <div class="levi">
+            <h2>Ziri</h2>
+            <table>
+                <tr>
+                    <th>Poeni</th>
+                    <th>Zemlja</th>
+                </tr>
+                <%
+                let ukupno = 0;
+                for (const rez of rezultati) {
+                    ukupno += rez.poeni;
+                %>
+                    <tr>
+                        <td>
+                            <%= rez.poeni %>
+                        </td>
+                        <td>
+                            <%= rez.drzavaKojaGlasa %>
+                        </td>
+                    </tr>
+                <% } %>
+            </table>
+        </div>
+
+        <div class="desni">
+            <h2>Publika</h2>
+            <p id="poeni">
+                <%= ukupno %>
+            </p>
+            <p>peona osvojeno od <%= tip %>
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    margin-top: 70px;
+    border-collapse: collapse;
+    border: 5px solid black;
+}
+
+th, td {
+    border: 3px solid black;
+    position: relative;
+    font-size: 14px;
+}
+
+th {
+    width: 40px;
+    height: 80px;
+}
+
+td {
+    width: 35px;
+    height: 80px;
+}
+
+.naslov {
+    font-weight: bold;
+}
+
+.opis {
+    font-style: italic;
+}
+
+.predavanje {
+    background-color: cornflowerblue;
+}
+
+.vezbe {
+    background-color: salmon;
+}
+
+button {
+    position: absolute;
+    right: 0;
+    top: 0;
+}

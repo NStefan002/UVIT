@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Detalji</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1>Detaljne informacije za grad <%= info[0].grad %></h1>
+        <% console.log(info) %>
+        <ul>
+            <% for (const i of info) { %>
+            <li>Dana <%= i.datum.getDate() + '-' + (i.datum.getMonth() + 1) + '-' + i.datum.getFullYear() %> izmerena je temperatura od <%= i.temperatura %> Celzijusa</li>
+            <% } %>
+        </ul>
+    </body>
+</html>

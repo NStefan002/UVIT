@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "60b7b8c9c9b0c8665c7f005d"
+  },
+  "smer": "I",
+  "brojStudenata": 154,
+  "prosek": 9.6,
+  "student": "Ana Anic",
+  "datum": "2020-09-14",
+  "imaKomentar": false
+},{
+  "_id": {
+    "$oid": "60b7b8c9c9b0c8665c7f005e"
+  },
+  "smer": "I",
+  "brojStudenata": 175,
+  "prosek": 8.85,
+  "student": "Pera Peric",
+  "datum": "2021-01-08",
+  "imaKomentar": true,
+  "komentar": "Za potrebe kvartalne statistike Univerziteta."
+},{
+  "_id": {
+    "$oid": "60b7b8c9c9b0c8665c7f005f"
+  },
+  "smer": "I",
+  "brojStudenata": 130,
+  "prosek": 8.76,
+  "student": "Marija Petrovic",
+  "datum": "2019-10-01",
+  "imaKomentar": true,
+  "komentar": "Stanje nakon svih ispitnih rokova u 2018/19. godini."
+},{
+  "_id": {
+    "$oid": "60b7bd0bc9b0c8665c7f0061"
+  },
+  "smer": "M",
+  "brojStudenata": 230,
+  "prosek": 8.7,
+  "student": "Jovan Miletic",
+  "datum": "2019-10-10",
+  "imaKomentar": false
+},{
+  "_id": {
+    "$oid": "60b7bd22c9b0c8665c7f0062"
+  },
+  "smer": "A",
+  "brojStudenata": 40,
+  "prosek": 8.5,
+  "student": "Viktor Lazic",
+  "datum": "2021-01-08",
+  "imaKomentar": true,
+  "komentar": "Za potrebe kvartalne statistike Univerziteta."
+}]

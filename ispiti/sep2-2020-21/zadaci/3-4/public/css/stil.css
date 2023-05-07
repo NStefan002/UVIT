@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+}
+
+label {
+    display: inline;
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 25px;
+    width: 7%;
+}
+
+input[type="text"] {
+    display: inline;
+    width: 93%;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+#grupa-omotac {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

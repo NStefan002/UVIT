@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Raspored</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/css/1.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1><%= grupa %></h1>
+        <table>
+            <tr>
+                <th></th>
+                <td>8:00 - 9:00</td>
+                <td>9:00 - 10:00</td>
+                <td>10:00 - 11:00</td>
+                <td>11:00 - 12:00</td>
+                <td>12:00 - 13:00</td>
+                <td>13:00 - 14:00</td>
+                <td>14:00 - 15:00</td>
+                <td>15:00 - 16:00</td>
+                <td>16:00 - 17:00</td>
+                <td>17:00 - 18:00</td>
+                <td>18:00 - 19:00</td>
+                <td>19:00 - 20:00</td>
+                <td>20:00 - 21:00</td>
+            </tr>
+            <% const radniDani = [ 'Ponedeljak', 'Utorak', 'Sreda', 'Cetvrtak', 'Petak' ]; %>
+            <% for (dan of radniDani) { %>
+            <tr>
+                <th><%= dan %></th>
+                <% if (dani[dan].length == 0) { %>
+                    <% for (let i = 8; i <= 20; i++) { %>
+                        <td></td>
+                    <% } %>
+                <% } else { %>
+                    <% const prvi = dani[dan][0].vreme; %>
+                    <% for (let i = 8; i < prvi; i++) { %>
+                        <td></td>
+                    <% } %>
+                    <% let brCasova = 0; %>
+                    <% for (cas of dani[dan]) { %>
+                        <td class="<%= cas.tip %>" colspan="<%= cas.brojCasova %>">
+                            <form>
+                                <input type="text" name="id" value="<%= cas.id %>" hidden>
+                                <input type="text" name="grupa" value="<%= grupa %>" hidden>
+                                <button type="submit" formmethod="post" formaction="/raspored/obrisi">&times;</button>
+                            </form>
+                            <p class="naslov"><%= cas.predmet %></p>
+                            <p class="opis"><%= cas.tip %></p>
+                        </td>
+                        <% brCasova++; %>
+                    <% } %>
+                    <% const poslednji = dani[dan][brCasova - 1].vreme + dani[dan][brCasova - 1].brojCasova; %>
+                    <% for (let i = poslednji; i < 21; i++) { %>
+                        <td></td>
+                    <% } %>
+                <% } %>
+            </tr>
+            <% } %>
+        </table>
+    </body>
+</html>

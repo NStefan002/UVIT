@@ -1,0 +1,809 @@
+[{
+  "_id": {
+    "$oid": "60b7b91ec9b0c8665c7f0060"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Peric",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0063"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Ivanovic",
+  "prosek": "9.68",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0064"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Stamenic",
+  "prosek": "8.58",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0065"
+  },
+  "smer": "A",
+  "imePrezime": "Pera Petrovic",
+  "prosek": "8.98",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0066"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Stamenic",
+  "prosek": "6.14",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0067"
+  },
+  "smer": "A",
+  "imePrezime": "Lazar Stamenic",
+  "prosek": "9.01",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0068"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Miletic",
+  "prosek": "7.58",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0069"
+  },
+  "smer": "I",
+  "imePrezime": "Lazar Miletic",
+  "prosek": "7.79",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006a"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Miletic",
+  "prosek": "7.25",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006b"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Petrovic",
+  "prosek": 10,
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006c"
+  },
+  "smer": "A",
+  "imePrezime": "Ana Stamenic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006d"
+  },
+  "smer": "A",
+  "imePrezime": "Milan Ivanovic",
+  "prosek": "6.99",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006e"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Stamenic",
+  "prosek": "7.29",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f006f"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "6.23",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0070"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "9.65",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0071"
+  },
+  "smer": "M",
+  "imePrezime": "Lazar Ivanovic",
+  "prosek": "8.74",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0072"
+  },
+  "smer": "I",
+  "imePrezime": "Ivana Petrovic",
+  "prosek": "8.24",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0073"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": "7.28",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0074"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Stamenic",
+  "prosek": "7.50",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0075"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Petrovic",
+  "prosek": "8.62",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0076"
+  },
+  "smer": "A",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": "9.40",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0077"
+  },
+  "smer": "M",
+  "imePrezime": "Jovan Ivanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0078"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Ivanovic",
+  "prosek": "7.56",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0079"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "7.91",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007a"
+  },
+  "smer": "I",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007b"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": "7.52",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007c"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "9.12",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007d"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Miletic",
+  "prosek": "6.19",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007e"
+  },
+  "smer": "I",
+  "imePrezime": "Milan Ivanovic",
+  "prosek": "7.70",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f007f"
+  },
+  "smer": "M",
+  "imePrezime": "Ana Ivanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0080"
+  },
+  "smer": "I",
+  "imePrezime": "Lazar Ivanovic",
+  "prosek": "8.44",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0081"
+  },
+  "smer": "M",
+  "imePrezime": "Milan Jovanovic",
+  "prosek": "9.53",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0082"
+  },
+  "smer": "A",
+  "imePrezime": "Pera Jovanovic",
+  "prosek": "6.72",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0083"
+  },
+  "smer": "I",
+  "imePrezime": "Ivana Petrovic",
+  "prosek": "6.63",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0084"
+  },
+  "smer": "I",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "6.92",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0085"
+  },
+  "smer": "M",
+  "imePrezime": "Marko Jovanovic",
+  "prosek": 10,
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0086"
+  },
+  "smer": "A",
+  "imePrezime": "Lazar Jovanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0087"
+  },
+  "smer": "I",
+  "imePrezime": "Ana Stamenic",
+  "prosek": "7.45",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0088"
+  },
+  "smer": "M",
+  "imePrezime": "Petra Jovanovic",
+  "prosek": "9.48",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0089"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Stamenic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008a"
+  },
+  "smer": "I",
+  "imePrezime": "Jovan Miletic",
+  "prosek": "9.04",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008b"
+  },
+  "smer": "A",
+  "imePrezime": "Pera Ivanovic",
+  "prosek": "9.76",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008c"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Ivanovic",
+  "prosek": "9.47",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008d"
+  },
+  "smer": "I",
+  "imePrezime": "Lazar Ivanovic",
+  "prosek": "8.73",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008e"
+  },
+  "smer": "A",
+  "imePrezime": "Ana Petrovic",
+  "prosek": 10,
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f008f"
+  },
+  "smer": "I",
+  "imePrezime": "Jovan Ivanovic",
+  "prosek": "6.18",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0090"
+  },
+  "smer": "M",
+  "imePrezime": "Marko Stamenic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0091"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "6.07",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0092"
+  },
+  "smer": "A",
+  "imePrezime": "Milan Jovanovic",
+  "prosek": "7.23",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0093"
+  },
+  "smer": "A",
+  "imePrezime": "Lazar Ivanovic",
+  "prosek": "8.10",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0094"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Miletic",
+  "prosek": "8.78",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0095"
+  },
+  "smer": "M",
+  "imePrezime": "Ana Petrovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0096"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "8.83",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0097"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Petrovic",
+  "prosek": "8.31",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0098"
+  },
+  "smer": "A",
+  "imePrezime": "Pera Ivanovic",
+  "prosek": "8.77",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f0099"
+  },
+  "smer": "M",
+  "imePrezime": "Milan Petrovic",
+  "prosek": "7.91",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009a"
+  },
+  "smer": "M",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "9.63",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009b"
+  },
+  "smer": "M",
+  "imePrezime": "Petra Miletic",
+  "prosek": "9.80",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009c"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Miletic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009d"
+  },
+  "smer": "M",
+  "imePrezime": "Petra Stamenic",
+  "prosek": "7.19",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009e"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "8.54",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f009f"
+  },
+  "smer": "I",
+  "imePrezime": "Milan Petrovic",
+  "prosek": "7.28",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a0"
+  },
+  "smer": "A",
+  "imePrezime": "Milan Stamenic",
+  "prosek": "8.09",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a1"
+  },
+  "smer": "M",
+  "imePrezime": "Marko Stamenic",
+  "prosek": "7.51",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a2"
+  },
+  "smer": "M",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": "8.46",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a3"
+  },
+  "smer": "I",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": "6.46",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a4"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": "7.53",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a5"
+  },
+  "smer": "I",
+  "imePrezime": "Jovan Petrovic",
+  "prosek": "8.42",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a6"
+  },
+  "smer": "I",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": "9.22",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a7"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Miletic",
+  "prosek": "6.05",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a8"
+  },
+  "smer": "M",
+  "imePrezime": "Petra Stamenic",
+  "prosek": "6.82",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00a9"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Jovanovic",
+  "prosek": "7.65",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00aa"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Petrovic",
+  "prosek": 10,
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00ab"
+  },
+  "smer": "I",
+  "imePrezime": "Lazar Stamenic",
+  "prosek": "8.29",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00ac"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Ivanovic",
+  "prosek": "7.08",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00ad"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Ivanovic",
+  "prosek": "6.65",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00ae"
+  },
+  "smer": "A",
+  "imePrezime": "Pera Stamenic",
+  "prosek": "8.37",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00af"
+  },
+  "smer": "A",
+  "imePrezime": "Milan Petrovic",
+  "prosek": "9.96",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b0"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Jovanovic",
+  "prosek": "9.94",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b1"
+  },
+  "smer": "A",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": "8.22",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b2"
+  },
+  "smer": "I",
+  "imePrezime": "Jovan Ivanovic",
+  "prosek": "7.29",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b3"
+  },
+  "smer": "A",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b4"
+  },
+  "smer": "A",
+  "imePrezime": "Ana Jovanovic",
+  "prosek": "7.49",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b5"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Jovanovic",
+  "prosek": "6.26",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b6"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Miletic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b7"
+  },
+  "smer": "I",
+  "imePrezime": "Ivana Miletic",
+  "prosek": "6.04",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b8"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "7.14",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00b9"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Petrovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00ba"
+  },
+  "smer": "A",
+  "imePrezime": "Jovan Stamenic",
+  "prosek": "6.06",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00bb"
+  },
+  "smer": "I",
+  "imePrezime": "Marko Jovanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00bc"
+  },
+  "smer": "I",
+  "imePrezime": "Ana Ivanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00bd"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Stamenic",
+  "prosek": "6.56",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00be"
+  },
+  "smer": "I",
+  "imePrezime": "Pera Miletic",
+  "prosek": "7.64",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00bf"
+  },
+  "smer": "M",
+  "imePrezime": "Petra Jovanovic",
+  "prosek": 10,
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c0"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Petrovic",
+  "prosek": "8.10",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c1"
+  },
+  "smer": "A",
+  "imePrezime": "Lazar Stamenic",
+  "prosek": "9.79",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c2"
+  },
+  "smer": "I",
+  "imePrezime": "Milan Ivanovic",
+  "prosek": "7.39",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c3"
+  },
+  "smer": "I",
+  "imePrezime": "Lazar Ivanovic",
+  "prosek": "7.84",
+  "upisani": false
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c4"
+  },
+  "smer": "I",
+  "imePrezime": "Petra Miletic",
+  "prosek": "8.95",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c5"
+  },
+  "smer": "M",
+  "imePrezime": "Ivana Jovanovic",
+  "prosek": "7.72",
+  "upisani": true
+},{
+  "_id": {
+    "$oid": "60b7bfb3c9b0c8665c7f00c6"
+  },
+  "smer": "M",
+  "imePrezime": "Lazar Stamenic",
+  "prosek": "6.69",
+  "upisani": false
+}]

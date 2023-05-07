@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Statistike</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/1.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="omotac">
+        <h1>Meteoroloske statistike</h1>
+        <div class="levi">
+            <h2>Tekuce informacije</h2>
+
+            <table>
+                <tr>
+                    <th>Grad</th>
+                    <th>Drzava</th>
+                    <th>Najniza temperatura</th>
+                    <th>Prosecna temperatura</th>
+                    <th>Najvisa temperatura</th>
+                </tr>
+                <% for (const g of gradovi) { %>
+                <tr>
+                    <td><%= g.grad %></td>
+                    <td><%= g.drzava %></td>
+                    <td><%= g.min %></td>
+                    <td><%= g.prosek %></td>
+                    <td><%= g.max %></td>
+                </tr>
+                <% } %>
+            </table>
+        </div>
+
+        <div class="desni">
+            <h2>Detaljne informacije</h2>
+            <form method="post" action="http://localhost:3000/meteo/detalji/">
+                <label for="grad">Odaberite grad<span>*</span>:</label>
+                <select name="grad" id="grad" required>
+                <% for (const g of gradovi) { %>
+                    <option value="<%= g.grad %>"><%= g.grad %></option>
+                <% } %>
+                </select>
+                <p>Urediti po<span>*</span>:</p>
+                <input type="radio" name="dugme" value="opadajuce">Datumu opadajuce<br>
+                <input type="radio" name="dugme" value="rastuce">Datumu rastuce<br>
+                <input type="submit" name="prikazi" value="Prikazi detaljne informacije">
+            </form>
+        </div>
+    </div>
+
+    <script src="/validacija.js"></script>
+</body>
+
+</html>

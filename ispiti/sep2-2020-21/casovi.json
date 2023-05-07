@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751da"
+  },
+  "grupa": "1i1a",
+  "predmet": "Uvod u organizaciju i arhitekturu racunara 2",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 8,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0761da"
+  },
+  "grupa": "1i1a",
+  "predmet": "Uvod u organizaciju i arhitekturu racunara 2",
+  "tip": "vezbe",
+  "dan": "Sreda",
+  "vreme": 8,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751db"
+  },
+  "grupa": "1i1a",
+  "predmet": "Diskretne strukture 2",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 11,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0761db"
+  },
+  "grupa": "1i1a",
+  "predmet": "Diskretne strukture 2",
+  "tip": "vezbe",
+  "dan": "Utorak",
+  "vreme": 10,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751dc"
+  },
+  "grupa": "1i1a",
+  "predmet": "Programiranje 2",
+  "tip": "predavanje",
+  "dan": "Utorak",
+  "vreme": 12,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0761dc"
+  },
+  "grupa": "1i1a",
+  "predmet": "Programiranje 2",
+  "tip": "vezbe",
+  "dan": "Cetvrtak",
+  "vreme": 18,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751dd"
+  },
+  "grupa": "1i1a",
+  "predmet": "Zetetika",
+  "tip": "predavanje",
+  "dan": "Cetvrtak",
+  "vreme": 16,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0751da"
+  },
+  "grupa": "1i1b",
+  "predmet": "Uvod u organizaciju i arhitekturu racunara 2",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 8,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0761da"
+  },
+  "grupa": "1i1b",
+  "predmet": "Uvod u organizaciju i arhitekturu racunara 2",
+  "tip": "vezbe",
+  "dan": "Cetvrtak",
+  "vreme": 14,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0751db"
+  },
+  "grupa": "1i1b",
+  "predmet": "Diskretne strukture 2",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 11,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0761db"
+  },
+  "grupa": "1i1b",
+  "predmet": "Diskretne strukture 2",
+  "tip": "vezbe",
+  "dan": "Utorak",
+  "vreme": 10,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0751dc"
+  },
+  "grupa": "1i1b",
+  "predmet": "Programiranje 2",
+  "tip": "predavanje",
+  "dan": "Utorak",
+  "vreme": 12,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0761dc"
+  },
+  "grupa": "1i1b",
+  "predmet": "Programiranje 2",
+  "tip": "vezbe",
+  "dan": "Petak",
+  "vreme": 18,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "61223db1ed25e1c4ec0751dd"
+  },
+  "grupa": "1i1b",
+  "predmet": "Zetetika",
+  "tip": "predavanje",
+  "dan": "Cetvrtak",
+  "vreme": 16,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0751da"
+  },
+  "grupa": "1o2a",
+  "predmet": "Linearna algebra",
+  "tip": "predavanje",
+  "dan": "Cetvrtak",
+  "vreme": 10,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0761da"
+  },
+  "grupa": "1o2a",
+  "predmet": "Linearna algebra",
+  "tip": "vezbe",
+  "dan": "Sreda",
+  "vreme": 18,
+  "brojCasova": 3
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0751db"
+  },
+  "grupa": "1o2a",
+  "predmet": "Geometrija 1",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 11,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0761db"
+  },
+  "grupa": "1o2a",
+  "predmet": "Geometrija 1",
+  "tip": "vezbe",
+  "dan": "Sreda",
+  "vreme": 16,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0751dc"
+  },
+  "grupa": "1o2a",
+  "predmet": "Analiza 1",
+  "tip": "vezbe",
+  "dan": "Petak",
+  "vreme": 11,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c3ec0751dd"
+  },
+  "grupa": "1o2a",
+  "predmet": "Analiza 1",
+  "tip": "vezbe",
+  "dan": "Cetvrtak",
+  "vreme": 8,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c3ec0761dc"
+  },
+  "grupa": "1o2a",
+  "predmet": "Analiza 1",
+  "tip": "predavanje",
+  "dan": "Ponedeljak",
+  "vreme": 13,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c4ec0761dc"
+  },
+  "grupa": "1o2a",
+  "predmet": "Analiza 1",
+  "tip": "predavanje",
+  "dan": "Utorak",
+  "vreme": 10,
+  "brojCasova": 2
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c6ec0761dc"
+  },
+  "grupa": "1o2a",
+  "predmet": "Geometrija 1",
+  "tip": "vezbe",
+  "dan": "Petak",
+  "vreme": 13,
+  "brojCasova": 1
+},{
+  "_id": {
+    "$oid": "71223db1ed25e1c5ec0761dc"
+  },
+  "grupa": "1o2a",
+  "predmet": "Analiza 1",
+  "tip": "vezbe",
+  "dan": "Utorak",
+  "vreme": 9,
+  "brojCasova": 1
+}]

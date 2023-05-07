@@ -1,0 +1,7021 @@
+[{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd623"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd624"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd625"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd626"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd627"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd628"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd629"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62a"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62b"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62c"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62d"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62e"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd62f"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd630"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd631"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd632"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd633"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd634"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd635"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd636"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd637"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd638"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd639"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63a"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63b"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63c"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63d"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63e"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd63f"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Azerbejdžan",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd640"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd641"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd642"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd643"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd644"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Albanija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd645"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd646"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd647"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd648"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd649"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64a"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64b"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64c"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64d"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64e"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd64f"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd650"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd651"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd652"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd653"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd654"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd655"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd656"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd657"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd658"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd659"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Belgija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65a"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65b"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65c"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65d"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65e"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd65f"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd660"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd661"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd662"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd663"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd664"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd665"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd666"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd667"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd668"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd669"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66a"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66b"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66c"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66d"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66e"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd66f"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd670"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd671"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd672"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd673"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Bugarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd674"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd675"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd676"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd677"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd678"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd679"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67a"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67b"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67c"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67d"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67e"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd67f"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd680"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd681"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd682"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd683"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd684"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd685"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd686"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd687"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd688"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd689"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68a"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68b"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68c"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68d"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68e"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd68f"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd690"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd691"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd692"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd693"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd694"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd695"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd696"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd697"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd698"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd699"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69a"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Kipar",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69b"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69c"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69d"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69e"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd69f"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a0"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a1"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a2"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a3"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a4"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a5"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a6"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a7"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a8"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6a9"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6aa"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ab"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ac"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ad"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ae"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6af"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b0"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b1"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b2"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b3"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b4"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b5"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b6"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b7"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b8"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6b9"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ba"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6bb"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6bc"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6bd"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Finska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6be"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6bf"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c0"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c1"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c2"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c3"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c4"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c5"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c6"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c7"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c8"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6c9"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ca"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6cb"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6cc"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6cd"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ce"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6cf"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d0"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d1"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d2"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d3"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d4"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d5"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d6"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d7"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d8"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6d9"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6da"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6db"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6dc"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6dd"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6de"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6df"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e0"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e1"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e2"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e3"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e4"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e5"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e6"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e7"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e8"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6e9"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ea"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6eb"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ec"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ed"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ee"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ef"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f0"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f1"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f2"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f3"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f4"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f5"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f6"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f7"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f8"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6f9"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6fa"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6fb"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6fc"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6fd"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Nemačka",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6fe"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd6ff"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd700"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd701"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Nemačka",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd702"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd703"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd704"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd705"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd706"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd707"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd708"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd709"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70a"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70b"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70c"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70d"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70e"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd70f"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd710"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd711"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd712"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd713"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd714"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd715"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd716"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd717"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Francuska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd718"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd719"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71a"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71b"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71c"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71d"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71e"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd71f"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd720"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd721"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd722"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd723"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd724"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd725"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd726"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd727"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd728"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd729"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72a"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Grčka",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72b"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72c"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72d"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72e"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd72f"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd730"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd731"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd732"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd733"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd734"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd735"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd736"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd737"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd738"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd739"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73a"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73b"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73c"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73d"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73e"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd73f"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd740"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd741"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd742"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd743"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd744"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd745"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd746"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd747"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd748"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd749"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74a"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74b"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74c"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74d"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74e"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd74f"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd750"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd751"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd752"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd753"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd754"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd755"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd756"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd757"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd758"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd759"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Island",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75a"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75b"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75c"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75d"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75e"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd75f"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd760"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd761"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd762"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd763"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd764"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd765"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd766"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd767"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd768"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd769"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76a"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76b"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76c"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76d"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76e"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd76f"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd770"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd771"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd772"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd773"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd774"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd775"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd776"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd777"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd778"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd779"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77a"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77b"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77c"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77d"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77e"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd77f"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd780"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd781"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd782"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Izrael",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd783"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd784"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd785"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd786"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd787"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd788"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd789"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78a"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78b"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78c"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78d"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78e"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd78f"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd790"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd791"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd792"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd793"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd794"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd795"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd796"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd797"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd798"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd799"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79a"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79b"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79c"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79d"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79e"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd79f"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a0"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a1"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a2"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a3"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a4"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a5"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a6"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a7"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a8"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7a9"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7aa"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ab"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ac"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ad"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ae"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7af"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Italija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b0"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b1"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b2"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b3"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b4"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b5"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b6"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b7"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b8"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7b9"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ba"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7bb"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7bc"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7bd"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7be"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7bf"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c0"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c1"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c2"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c3"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c4"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c5"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c6"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c7"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c8"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7c9"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ca"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7cb"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7cc"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7cd"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ce"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7cf"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d0"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d1"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d2"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d3"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d4"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d5"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d6"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Litvanija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d7"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d8"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7d9"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7da"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7db"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7dc"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7dd"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7de"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7df"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e0"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e1"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e2"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e3"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e4"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e5"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e6"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e7"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e8"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7e9"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ea"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7eb"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ec"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ed"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ee"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ef"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f0"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f1"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f2"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f3"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f4"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f5"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f6"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f7"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f8"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7f9"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7fa"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7fb"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7fc"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7fd"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7fe"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd7ff"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd800"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd801"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd802"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd803"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd804"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd805"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd806"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd807"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd808"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd809"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Malta",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80a"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80b"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80c"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80d"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80e"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd80f"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd810"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd811"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd812"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd813"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd814"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd815"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd816"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd817"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd818"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd819"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Moldavija",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81a"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81b"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81c"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81d"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81e"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd81f"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd820"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd821"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd822"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd823"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd824"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd825"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd826"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd827"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd828"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd829"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82a"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82b"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82c"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82d"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82e"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd82f"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd830"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd831"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd832"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd833"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd834"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd835"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd836"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd837"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd838"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd839"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83a"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83b"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83c"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Norveška",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83d"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83e"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd83f"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd840"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd841"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd842"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd843"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd844"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd845"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd846"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd847"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd848"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd849"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84a"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84b"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Portugal",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84c"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84d"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84e"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd84f"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd850"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd851"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd852"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd853"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd854"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd855"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd856"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd857"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd858"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd859"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85a"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85b"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85c"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85d"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85e"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd85f"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd860"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd861"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd862"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd863"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd864"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd865"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd866"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd867"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd868"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd869"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86a"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86b"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86c"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86d"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86e"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd86f"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd870"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd871"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd872"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd873"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd874"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd875"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Rusija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd876"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd877"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd878"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd879"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87a"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87b"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87c"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87d"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87e"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd87f"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd880"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd881"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd882"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd883"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd884"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd885"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd886"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd887"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "San Marino",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd888"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Španija",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd889"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88a"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88b"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88c"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88d"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88e"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd88f"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd890"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd891"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd892"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd893"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd894"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd895"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd896"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd897"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd898"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd899"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Španija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89a"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89b"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89c"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Srbija",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89d"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89e"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd89f"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a0"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a1"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a2"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a3"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a4"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a5"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a6"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a7"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a8"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8a9"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8aa"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ab"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ac"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ad"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Švedska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ae"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8af"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b0"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b1"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b2"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b3"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b4"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b5"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b6"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b7"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b8"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8b9"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ba"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8bb"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8bc"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8bd"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8be"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8bf"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c0"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c1"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c2"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c3"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c4"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c5"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c6"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c7"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c8"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8c9"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ca"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8cb"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8cc"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8cd"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ce"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8cf"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d0"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d1"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d2"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d3"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d4"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d5"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d6"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d7"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d8"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8d9"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8da"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8db"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8dc"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8dd"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8de"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8df"
+	},
+	"drzavaKojaGlasa": "Ukrajna",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e0"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": false,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e1"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e2"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e3"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e4"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e5"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e6"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e7"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e8"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8e9"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ea"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8eb"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ec"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ed"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ee"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ef"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f0"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Švajcarska",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f1"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Holandija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f2"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Holandija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f3"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Holandija",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f4"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Holandija",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f5"
+	},
+	"drzavaKojaGlasa": "Francuska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f6"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f7"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Holandija",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f8"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8f9"
+	},
+	"drzavaKojaGlasa": "Poljska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8fa"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8fb"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8fc"
+	},
+	"drzavaKojaGlasa": "Finska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8fd"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8fe"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd8ff"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd900"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 12
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd901"
+	},
+	"drzavaKojaGlasa": "Moldavija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd902"
+	},
+	"drzavaKojaGlasa": "Srbija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd903"
+	},
+	"drzavaKojaGlasa": "Hrvatska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd904"
+	},
+	"drzavaKojaGlasa": "Slovenija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd905"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd906"
+	},
+	"drzavaKojaGlasa": "Austrija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd907"
+	},
+	"drzavaKojaGlasa": "Rusija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd908"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd909"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90a"
+	},
+	"drzavaKojaGlasa": "Bugarska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90b"
+	},
+	"drzavaKojaGlasa": "San Marino",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90c"
+	},
+	"drzavaKojaGlasa": "Španija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90d"
+	},
+	"drzavaKojaGlasa": "Kipar",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90e"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd90f"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd910"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd911"
+	},
+	"drzavaKojaGlasa": "Češka",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd912"
+	},
+	"drzavaKojaGlasa": "Severna Makedonija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd913"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd914"
+	},
+	"drzavaKojaGlasa": "Švajcarska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd915"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd916"
+	},
+	"drzavaKojaGlasa": "Danska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd917"
+	},
+	"drzavaKojaGlasa": "Švedska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 8
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd918"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd919"
+	},
+	"drzavaKojaGlasa": "Azerbejdžan",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91a"
+	},
+	"drzavaKojaGlasa": "Letonija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91b"
+	},
+	"drzavaKojaGlasa": "Irska",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 6
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91c"
+	},
+	"drzavaKojaGlasa": "Rumunija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91d"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91e"
+	},
+	"drzavaKojaGlasa": "Australija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd91f"
+	},
+	"drzavaKojaGlasa": "Malta",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd920"
+	},
+	"drzavaKojaGlasa": "Gruzija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 7
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd921"
+	},
+	"drzavaKojaGlasa": "Estonija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd922"
+	},
+	"drzavaKojaGlasa": "Izrael",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd923"
+	},
+	"drzavaKojaGlasa": "Nemačka",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd924"
+	},
+	"drzavaKojaGlasa": "Belgija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 10
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd925"
+	},
+	"drzavaKojaGlasa": "Norveška",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd926"
+	},
+	"drzavaKojaGlasa": "Island",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd927"
+	},
+	"drzavaKojaGlasa": "Portugal",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 2
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd928"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 5
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd929"
+	},
+	"drzavaKojaGlasa": "Italija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd92a"
+	},
+	"drzavaKojaGlasa": "Grčka",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 1
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd92b"
+	},
+	"drzavaKojaGlasa": "Velika Britanija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd92c"
+	},
+	"drzavaKojaGlasa": "Holandija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 3
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd92d"
+	},
+	"drzavaKojaGlasa": "Albanija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": false,
+	"poeni": 4
+},
+{
+	"_id": {
+		"$oid": "60b28306a92b02c3109bd92e"
+	},
+	"drzavaKojaGlasa": "Litvanija",
+	"drzavaZaKojuSeGlasa": "Ukrajna",
+	"ziri": true,
+	"poeni": 12
+}]
+

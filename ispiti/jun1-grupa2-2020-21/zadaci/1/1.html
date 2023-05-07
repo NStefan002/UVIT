@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Stefan Novakovic</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="1.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="omotac">
+        <h1>Meteoroloske statistike</h1>
+        <div class="levi">
+            <h2>Tekuce informacije</h2>
+
+            <table>
+                <tr>
+                    <th>Grad</th>
+                    <th>Drzava</th>
+                    <th>Najniza temperatura</th>
+                    <th>Prosecna temperatura</th>
+                    <th>Najvisa temperatura</th>
+                </tr>
+                <tr>
+                    <td>Beograd</td>
+                    <td>Srbija</td>
+                    <td>24</td>
+                    <td>28.33</td>
+                    <td>31</td>
+                </tr>
+                <tr>
+                    <td>Novi Sad</td>
+                    <td>Srbija</td>
+                    <td>26</td>
+                    <td>28.60</td>
+                    <td>31</td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td>Berlin</td>
+                    <td>Nemacka</td>
+                    <td>19</td>
+                    <td>21.40</td>
+                    <td>24</td>
+                </tr>
+                <tr>
+                    <td>Lisabon</td>
+                    <td>Portugal</td>
+                    <td>18</td>
+                    <td>19.17</td>
+                    <td>22</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="desni">
+            <h2>Detaljne informacije</h2>
+            <form>
+                <label for="grad">Odaberite grad<span>*</span>:</label>
+                <select name="grad" id="grad" required>
+                    <option value="Beograd">Beograd</option>
+                    <option value="Novi Sad">Novi Sad</option>
+                    <option value="Berlin">Berlin</option>
+                    <option value="Lisabon">Lisabon</option>
+                </select>
+                <p>Urediti po<span>*</span>:</p>
+                <input type="radio" name="dugme" value="Datumu opadajuce">Datumu opadajuce<br>
+                <input type="radio" name="dugme" value="Datumu rastuce">Datumu rastuce<br>
+                <input type="submit" name="prikazi" value="Prikazi detaljne informacije">
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

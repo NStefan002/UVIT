@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'naslov';
+    src: url('./naslov.ttf') format('truetype');
+}
+
+#sadrzaj {
+    width: 961px;
+    margin: auto;
+}
+
+header {
+    width: 100%;
+    height: 378px;
+    background-image: url("./naslov.jpg");
+    position: relative;
+}
+
+h1 {
+    font-family: 'naslov';
+    font-size: 70px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    background-color: rgb(240, 248, 255);
+}
+
+main {
+    margin-top: 50px;
+    position: relative;
+}
+
+.levi {
+    width: 45%;
+    height: 775px;
+    padding: 2%;
+    background-color: rgba(255, 105, 180, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+td {
+    width: 50%;
+    padding: 5px;
+}
+
+.scena {
+    width: 100%;
+    height: 150px;
+}
+
+p {
+    font-family: serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+tr:nth-child(odd) p {
+    text-align: left;
+}
+
+.desni {
+    width: 48%;
+    height: 850px;
+    padding: 1%;
+    background-color: rgba(105, 195, 255, 0.6);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.desni p {
+    text-align: left;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+h2::first-letter {
+    font-size: 40pt;
+}
+
+li:hover {
+    font-weight: bold;
+    font-style: italic;
+}
+
+a {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#link {
+    width: 80%;
+}

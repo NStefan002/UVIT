@@ -1,0 +1,100 @@
+.omotac {
+    position: relative;
+    width: 100%;
+}
+
+.levi, .desni {
+    width: 40%;
+    margin-top: 40px;
+    height: 80vh;
+}
+
+h1 {
+    margin: 40px;
+    text-align: center;
+}
+
+.levi {
+    position: absolute;
+    left: 0;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    background: linear-gradient(to top, white 90%, red);
+    margin-left: 5%;
+}
+
+.desni {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-top: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+    background: linear-gradient(to top, white 90%, blue);
+    margin-right: 5%;
+}
+
+input, textarea, label {
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 0;
+}
+
+textarea {
+    height: 60px;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+label[for="komentar"] {
+    display: inline;
+    margin-left: auto;
+
+}
+input[type="checkbox"] {
+    display: inline;
+    margin: auto;
+    margin-right: 3px;
+    width: 23%;
+}
+
+table {
+    border: 2px solid blue;
+    margin: auto;
+    width: 80%;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    text-align: right;
+}
+
+p, h3 {
+    font-weight: normal;
+    color: blue;
+}
+
+h3 {
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+p {
+    display: block;
+    margin: auto;
+    width: 80%;
+}

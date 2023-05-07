@@ -1,0 +1,199 @@
+[{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924857"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 28,
+	"datum": "2021-06-10T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924858"
+	},
+	"grad": "Novi Sad",
+	"drzava": "Srbija",
+	"temperatura": 27,
+	"datum": "2021-06-16T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924859"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 30,
+	"datum": "2021-06-12T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485a"
+	},
+	"grad": "Novi Sad",
+	"drzava": "Srbija",
+	"temperatura": 29,
+	"datum": "2021-06-17T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485b"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 31,
+	"datum": "2021-06-13T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485c"
+	},
+	"grad": "Berlin",
+	"drzava": "Nemacka",
+	"temperatura": 20,
+	"datum": "2021-06-22T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485d"
+	},
+	"grad": "Berlin",
+	"drzava": "Nemacka",
+	"temperatura": 22,
+	"datum": "2021-06-21T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485e"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 22,
+	"datum": "2021-06-25T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92485f"
+	},
+	"grad": "Berlin",
+	"drzava": "Nemacka",
+	"temperatura": 22,
+	"datum": "2021-06-23T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924860"
+	},
+	"grad": "Berlin",
+	"drzava": "Nemacka",
+	"temperatura": 19,
+	"datum": "2021-06-24T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924861"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 19,
+	"datum": "2021-06-28T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924862"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 18,
+	"datum": "2021-06-26T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924863"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 19,
+	"datum": "2021-06-29T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924864"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 19,
+	"datum": "2021-06-27T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924865"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 24,
+	"datum": "2021-06-14T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924866"
+	},
+	"grad": "Lisabon",
+	"drzava": "Portugal",
+	"temperatura": 18,
+	"datum": "2021-06-30T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924867"
+	},
+	"grad": "Berlin",
+	"drzava": "Nemacka",
+	"temperatura": 24,
+	"datum": "2021-06-20T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924868"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 29,
+	"datum": "2021-06-09T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d924869"
+	},
+	"grad": "Novi Sad",
+	"drzava": "Srbija",
+	"temperatura": 31,
+	"datum": "2021-06-19T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92486a"
+	},
+	"grad": "Novi Sad",
+	"drzava": "Srbija",
+	"temperatura": 26,
+	"datum": "2021-06-15T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92486b"
+	},
+	"grad": "Beograd",
+	"drzava": "Srbija",
+	"temperatura": 29,
+	"datum": "2021-06-11T13:50:49.350Z"
+},
+{
+	"_id": {
+		"$oid": "60c0c7632e0dd5f13d92486c"
+	},
+	"grad": "Novi Sad",
+	"drzava": "Srbija",
+	"temperatura": 30,
+	"datum": "2021-06-18T13:50:49.350Z"
+}]
+

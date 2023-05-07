@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Drzave</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <h1>Rezultati glasanja sa Evrovizije 2021</h1>
+        <form method="post" action="http://localhost:3000/evrovizija/rezultati/">
+        Drzava: <br>
+            <select name="drzava">
+                <% for (let d of drzave) { %>
+                    <option value="<%= d %>"><%= d %></option>
+                <% } %>
+            </select>
+            <br> <br>
+            Tip ocene: <br>
+            <input type="radio" name="ziri" value="Ziri"> Ziri <br>
+            <input type="radio" name="ziri" value="Publika"> Publika <br>
+            <input type="radio" name="ziri" value="Oba"> Oba <br>
+
+            <input type="submit" name="pogledaj" value="Pogledaj rezultate">
+        </form>
+
+        <script src="/validacija.js"></script>
+    </body>
+</html>
