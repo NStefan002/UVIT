@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose');
 
-const studentShema = new mongoose.Schema({
+const studentShema = mongoose.Schema({
     _id: mongoose.Schema.Types.ObjectId,
     smer: {
         type: String,
@@ -22,13 +22,24 @@ const studentShema = new mongoose.Schema({
     }
 }, { collection: 'upisaniStudenti' });
 
-const studentModel = new mongoose.model('UpisanStudent', studentShema);
+const studentModel = mongoose.model('studentModel', studentShema);
 
 async function dohvatiTekucuStatistikuZaSmer(smer) {
-    const studenti = await studentModel.find({ smer: smer, upisani: true }).sort({ prosek: -1 }).exec();
-    console.log(studenti);
+    const studenti = await studentModel.find({ smer: smer, upisani: true }, { _id: false, smer: false, upisani: false }).sort({ prosek: -1 }).exec();
+    if (studenti.length == 0) {
+        return { brStudenata: 0, prosek: 0, najistaknutiji: "" };
+    }
 
-    return studenti;
+    let brStudenata = studenti.length;
+    let najistaknutiji = studenti[0].imePrezime;
+
+    let prosek = 0;
+    for (const s of studenti) {
+        prosek += s.prosek;
+    }
+    prosek /= brStudenata;
+
+    return { brStudenata, prosek, najistaknutiji };
 }
 
 module.exports = {

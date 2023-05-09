@@ -68,6 +68,10 @@ input[type="checkbox"] {
     width: 23%;
 }
 
+input:read-only {
+    background-color: rgba(80, 80, 80, 0.5);
+}
+
 table {
     border: 2px solid blue;
     margin: auto;

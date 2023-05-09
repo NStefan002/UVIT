@@ -11,79 +11,50 @@
             <div class="levi">
                 <h1>Tekuca statistika</h1>
 
-                <form>
-                    <label for="smer">Smer:</label>
-                    <input type="text" name="smer" value="I" disabled>
-                    <label for="broj">Broj studenata:</label>
-                    <input type="number" name="broj" value="130" disabled>
-                    <label for="prosek">Prosecna ocena:</label>
-                    <input type="number" name="prosek" value="9.21" disabled>
-                    <label for="student">Najistaknutiji na smeru:</label>
-                    <input type="text" name="student" value="Laza Lazic" disabled>
-                    <label for="datum">Datum unosa statistike:</label>
-                    <input type="date" name="datum" value="dd-----yyyy">
+                <form id="statistika" method="post" action="/statistike/unesi-statistiku/">
+                    <label>Smer:</label>
+                    <input type="text" name="smer" value="<%= smer %>" readonly>
+                    <label>Broj studenata:</label>
+                    <input type="number" name="broj" value="<%= brStudenata %>" readonly>
+                    <label>Prosecna ocena:</label>
+                    <input type="number" name="prosek" value="<%= prosek %>" readonly>
+                    <label>Najistaknutiji na smeru:</label>
+                    <input type="text" name="student" value="<%= najistaknutiji %>" readonly>
+                    <label>Datum unosa statistike:</label>;
+                    <input type="date" name="datum">
 
-                    <input type="checkbox" name="komentar" value="komentar">
-                    <label for="komentar">Unesite komentar:</label>
+                    <input type="checkbox" name="imaKomentar">
+                    <label>Unesite komentar:</label>
 
-                    <label for="sadrzaj">komentar:</label>
-                    <textarea rows="3" cols="40" name="sadrzaj"></textarea>
+                    <label>komentar:</label>
+                    <textarea form="statistika" rows="3" cols="40" name="komentar"></textarea>
+
                     <input type="submit" name="unesi" value="Unesi tekucu statistiku">
                 </form>
             </div>
 
             <div class="desni">
-                <h1>Istorija statistika za smer: Informatika</h1>
-
-                <h3>Datum: asjfs</h3>
-                <table>
-                    <tr>
-                        <th>Broj studenata:</th>
-                        <td>175</td>
-                    </tr>
-                    <tr>
-                        <th>Prosecna ocena:</th>
-                        <td>8.85</td>
-                    </tr>
-                    <tr>
-                        <th>Najistaknutiji na smeru:</th>
-                        <td>Nenad</td>
-                    </tr>
-                </table>
-                <p>Za potrebe ...</p>
-
-                <h3>Datum: asjfs</h3>
-                <table>
-                    <tr>
-                        <th>Broj studenata:</th>
-                        <td>175</td>
-                    </tr>
-                    <tr>
-                        <th>Prosecna ocena:</th>
-                        <td>8.85</td>
-                    </tr>
-                    <tr>
-                        <th>Najistaknutiji na smeru:</th>
-                        <td>Nenad</td>
-                    </tr>
-                </table>
-
-                <h3>Datum: asjfs</h3>
-                <table>
-                    <tr>
-                        <th>Broj studenata:</th>
-                        <td>175</td>
-                    </tr>
-                    <tr>
-                        <th>Prosecna ocena:</th>
-                        <td>8.85</td>
-                    </tr>
-                    <tr>
-                        <th>Najistaknutiji na smeru:</th>
-                        <td>Nenad</td>
-                    </tr>
-                </table>
-                <p>Za potrebe ...</p>
+                <h1>Istorija statistika za smer: <%= smer %></h1>
+                <% for (const i of istorija) { %>
+                    <h3>Datum: <%= i.datum.toLocaleDateString('srb') %></h3>
+                    <table>
+                        <tr>
+                            <th>Broj studenata:</th>
+                            <td><%= i.brojStudenata %></td>
+                        </tr>
+                        <tr>
+                            <th>Prosecna ocena:</th>
+                            <td><%= i.prosek %></td>
+                        </tr>
+                        <tr>
+                            <th>Najistaknutiji na smeru:</th>
+                            <td><%= i.student %></td>
+                        </tr>
+                    </table>
+                    <% if (i.imaKomentar) { %>
+                        <p><%= i.komentar %></p>
+                    <% } %>
+                <% } %>
             </div>
         </div>
     </body>

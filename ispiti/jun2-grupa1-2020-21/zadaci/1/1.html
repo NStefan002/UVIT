@@ -12,21 +12,21 @@
                 <h1>Tekuca statistika</h1>
 
                 <form>
-                    <label for="smer">Smer:</label>
-                    <input type="text" name="smer" value="I" disabled>
-                    <label for="broj">Broj studenata:</label>
-                    <input type="number" name="broj" value="130" disabled>
-                    <label for="prosek">Prosecna ocena:</label>
-                    <input type="number" name="prosek" value="9.21" disabled>
-                    <label for="student">Najistaknutiji na smeru:</label>
-                    <input type="text" name="student" value="Laza Lazic" disabled>
-                    <label for="datum">Datum unosa statistike:</label>
-                    <input type="date" name="datum" value="dd-----yyyy">
+                    <label>Smer:</label>
+                    <input type="text" name="smer" value="I" readonly>
+                    <label>Broj studenata:</label>
+                    <input type="number" name="broj" value="130" readonly>
+                    <label>Prosecna ocena:</label>
+                    <input type="number" name="prosek" value="9.21" readonly>
+                    <label>Najistaknutiji na smeru:</label>
+                    <input type="text" name="student" value="Laza Lazic" readonly>
+                    <label>Datum unosa statistike:</label>
+                    <input type="date" name="datum" value="">
 
-                    <input type="checkbox" name="komentar" value="komentar">
-                    <label for="komentar">Unesite komentar:</label>
+                    <input type="checkbox" name="imaKomentar">
+                    <label>Unesite komentar:</label>
 
-                    <label for="sadrzaj">komentar:</label>
+                    <label>komentar:</label>
                     <textarea rows="3" cols="40" name="sadrzaj"></textarea>
                     <input type="submit" name="unesi" value="Unesi tekucu statistiku">
                 </form>
