@@ -1,0 +1,79 @@
+h1 {
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 80%;
+}
+
+.pozadina {
+    position: relative;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url('/img/event.png');
+    border: 2px solid red;
+}
+
+table {
+    flex: 1.5;
+    border-collapse: collapse;
+    border: 5px solid rgba(0, 100, 200, 0.7);
+    border-left: 0;
+    margin: 60px;
+    background-color: lightgray;
+}
+
+tr {
+    border-bottom: 5px solid rgba(0, 100, 200, 0.7);
+}
+
+th, td {
+    padding: 10px;
+}
+
+tr {
+    text-align: center;
+}
+
+th {
+    color: red;
+}
+
+td {
+    color: blue;
+}
+
+ul {
+    list-style-image: url('/img/lecturer.png');
+}
+
+li {
+    text-align: left;
+}
+
+form {
+    flex: .5;
+    margin: 60px;
+}
+
+input {
+    display: block;
+    background-color: skyblue;
+}
+
+input[type="submit"] {
+    background-color: lightgray;
+}
+
+label {
+    font-weight: bold;
+}
+
+#poruka {
+    color: blue;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}

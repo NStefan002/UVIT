@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "613210bf0254c93a7894d4d1"
+  },
+  "naziv": "OOP u JavaScript jeziku",
+  "godina": 2021,
+  "mesec": 9,
+  "dan": 3,
+  "trajanje": 60,
+  "predavaci": [
+    "Pera Peric",
+    "Ana Anic"
+  ]
+},{
+  "_id": {
+    "$oid": "613223530254c93a7894d4d2"
+  },
+  "naziv": "HTML + CSS trikovi",
+  "godina": 2021,
+  "mesec": 9,
+  "dan": 15,
+  "trajanje": 120,
+  "predavaci": [
+    "Mila Jovanovic",
+    "Laza Lazic"
+  ]
+},{
+  "_id": {
+    "$oid": "613223920254c93a7894d4d3"
+  },
+  "naziv": "V8 masina",
+  "godina": 2021,
+  "mesec": 12,
+  "dan": 2,
+  "trajanje": 180,
+  "predavaci": [
+    "Jovan Jovanovic",
+    "Petar Petrovic",
+    "Mira Miric"
+  ]
+}]

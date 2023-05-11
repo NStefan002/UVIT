@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Dogadjaji</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/css/1.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>Dogadjaji</h1>
+        <% if (dogadjaji.length == 0) { %>
+        <p id="poruka">Nema dogadjaja koji zadovoljavaju kriterijume.</p>
+        <% } else { %>
+        <% for (const d of dogadjaji) { %>
+            <div class="pozadina">
+                <table>
+                    <tr>
+                        <th>Naziv</th>
+                        <td><%= d.naziv %></td>
+                    </tr>
+                    <tr>
+                        <th>Datum</th>
+                        <td><%= d.dan %>.<%= d.mesec %>.<%= d.godina %>.</td>
+                    </tr>
+                    <tr>
+                        <th>Trajanje</th>
+                        <td><%= d.trajanje %> minuta</td>
+                    </tr>
+                    <tr>
+                        <th>Predavaci</th>
+                        <td>
+                            <ul>
+                            <% for (const p of d.predavaci) { %>
+                                <li><%= p %></li>
+                            <% } %>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+
+                <form method="post" action="/dogadjaji/azuriraj">
+                    <label>Naziv</label>
+                    <input type="text" name="naziv" value="<%= d.naziv %>">
+                    <label>Dan</label>
+                    <input type="number" name="dan" value="<%= d.dan %>">
+                    <label>Mesec</label>
+                    <input type="number" name="mesec" value="<%= d.mesec %>">
+                    <label>Godina</label>
+                    <input type="number" name="godina" value="<%= d.godina %>">
+                    <label>Trajanje</label>
+                    <input type="number" name="trajanje" value="<%= d.trajanje %>">
+                    <input type="hidden" name="id" value="<%= d._id %>">
+                    <input type="submit" name="izmeni" value="Izmeni podatke o dogadjaju">
+                </form>
+            </div>
+        <% } %>
+        <% } %>
+    </body>
+</html>
