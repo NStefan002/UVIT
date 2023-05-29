@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="data:,">
+    <title>Fabrike</title>
+
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/css/prikaziFabrike.css" />
+</head>
+
+<body>
+    <section>
+        <h1 class="display-4"><a href="/">Pretrazi ponovo</a></h1>
+    </section>
+    <main>
+        <section>
+            <h3>Rezultati pretrage</h3>
+            <!-- Grupisuci element sa fabrikama ide ovde -->
+        </section>
+
+        <section>
+            <h3>Registruj novu fabriku</h3>
+            <form id="registruj" action="/fabrike/registruj" method="POST">
+                <div>
+                    <label for="naziv">Naziv:</label>
+                    <input type="text" id="naziv" name="naziv">
+                </div>
+                <div>
+                    <label for="drzava">Drzava:</label>
+                    <input type="text" id="drzava" name="drzava">
+                </div>
+                <div>
+                    <label for="broj">Tip:</label>
+                    <datalist id="lista_fabrika">
+                        <option value="teska industrija">teska industrija</option>
+                        <option value="laka industrija">laka industrija</option>
+                        <option value="prehrambena industrija">prehrambena industrija</option>
+                        <option value="ostalo">ostalo</option>
+                    </datalist>
+                    <input list="lista_fabrika" id="tip" name="tip">
+                </div>
+                <input type="submit" value="Registruj fabriku" class="btn btn-primary">
+            </form>
+        </section>
+    </main>
+
+    <script src="/js/jquery-3.4.1.min.js"></script>
+    <script src="/js/prikaziFabrike.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Statistike</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/css/1.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="omotac">
+            <img src="/img/krugovi.png" alt="krugovi" id="leva-slika">
+        <% if (statistike.length == 0) { %>
+            <h1>Nema rezultata za unetu drzavu</h1>
+        <% } else { %>
+            <h1>Statistike: <%= drzava %></h1>
+            <img src="/img/krugovi.png" alt="krugovi" id="desna-slika">
+
+            <table>
+                <tr>
+                    <th>Kategorija / Tip</th>
+                    <th>Timski</th>
+                    <th>Individualni</th>
+                </tr>
+                <tr>
+                    <td>Zene</td>
+                    <td><%= statistike.zT %></td>
+                    <td><%= statistike.zI %></td>
+                </tr>
+                <tr>
+                    <td>Muskarci</td>
+                    <td><%= statistike.mT %></td>
+                    <td><%= statistike.mI %></td>
+                </tr>
+            </table>
+
+            <a href="/olimpijada"><button type="button">Pocetna stranica</button></a>
+        <% } %>
+        </div>
+    </body>
+</html>

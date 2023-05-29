@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5ee77955181e56cca068ea94"
+  },
+  "naziv": "Fabrika cokolade",
+  "drzava": "Srbija",
+  "tipIndustrije": "prehrambena industrija",
+  "uPogonu": true
+},{
+  "_id": {
+    "$oid": "5ee77955181e56cca068ea95"
+  },
+  "naziv": "Fabrika audio/video uredjaja",
+  "drzava": "Juzna Koreja",
+  "tipIndustrije": "ostalo",
+  "uPogonu": true
+},{
+  "_id": {
+    "$oid": "5ee77955181e56cca068ea96"
+  },
+  "naziv": "Fabrika morskih plodova",
+  "drzava": "Juzna Koreja",
+  "tipIndustrije": "prehrambena industrija",
+  "uPogonu": false
+}]

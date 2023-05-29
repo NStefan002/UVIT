@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751da"
+  },
+  "sport": "Kosarka",
+  "zlato": "SAD",
+  "srebro": "Francuska",
+  "bronza": "Australija",
+  "timski": true,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751db"
+  },
+  "sport": "Kosarka",
+  "zlato": "SAD",
+  "srebro": "Japan",
+  "bronza": "Francuska",
+  "timski": true,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751dc"
+  },
+  "sport": "Odbojka",
+  "zlato": "Francuska",
+  "srebro": "Rusija",
+  "bronza": "Argentina",
+  "timski": true,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751dd"
+  },
+  "sport": "Odbojka",
+  "zlato": "SAD",
+  "srebro": "Brazil",
+  "bronza": "Srbija",
+  "timski": true,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751de"
+  },
+  "sport": "Vaterpolo",
+  "zlato": "Srbija",
+  "srebro": "Grcka",
+  "bronza": "Madjarska",
+  "timski": true,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751df"
+  },
+  "sport": "Vaterpolo",
+  "zlato": "SAD",
+  "srebro": "Spanija",
+  "bronza": "Madjarska",
+  "timski": true,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e1"
+  },
+  "sport": "Karate",
+  "zlato": "Srbija",
+  "srebro": "Kina",
+  "bronza": "Turska",
+  "timski": false,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e2"
+  },
+  "sport": "Tekvondo -49",
+  "zlato": "Tajland",
+  "srebro": "Spanija",
+  "bronza": "Srbija",
+  "timski": false,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e3"
+  },
+  "sport": "Tekvondo +67",
+  "zlato": "Srbija",
+  "srebro": "Juzna koreja",
+  "bronza": "Velika britanija",
+  "timski": false,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e4"
+  },
+  "sport": "Rvanje",
+  "zlato": "Ukrajna",
+  "srebro": "Madjarska",
+  "bronza": "Srbija",
+  "timski": false,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e5"
+  },
+  "sport": "Streljastvo 10",
+  "zlato": "Iran",
+  "srebro": "Srbija",
+  "bronza": "Kina",
+  "timski": false,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e6"
+  },
+  "sport": "Streljastvo 50",
+  "zlato": "Kina",
+  "srebro": "Rusija",
+  "bronza": "Srbija",
+  "timski": false,
+  "kategorija": "m"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e7"
+  },
+  "sport": "Basket",
+  "zlato": "SAD",
+  "srebro": "Rusija",
+  "bronza": "Kina",
+  "timski": true,
+  "kategorija": "z"
+},
+{
+  "_id": {
+    "$oid": "61223db1ed25e1c3ec0751e8"
+  },
+  "sport": "Basket",
+  "zlato": "Letonija",
+  "srebro": "Rusija",
+  "bronza": "Srbija",
+  "timski": true,
+  "kategorija": "m"
+}
+]
